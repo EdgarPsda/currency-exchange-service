@@ -1,2 +1,2 @@
 # currency-exchange-service
-MS to gett currency exchange.
+MS to get currency exchange.
